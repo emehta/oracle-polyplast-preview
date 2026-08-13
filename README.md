@@ -12,8 +12,8 @@ Live preview: https://emehta.github.io/oracle-polyplast-preview/
   migration audit trail live in a separate private repository.
 - It is not the live business website. The live site remains oraclegroup.net.
 - It is not approved for public launch. Image publication rights, contact
-  details, and product specification transcription accuracy are still pending
-  owner confirmation, so this preview is served with `noindex` and a
-  `robots.txt` that disallows crawling.
+  details, product specification transcription accuracy, and the product search
+  tag vocabulary are all pending owner confirmation, so this preview is served
+  with `noindex` and a `robots.txt` that disallows crawling.
 
 Do not treat the content or imagery here as licensed for reuse.
