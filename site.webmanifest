@@ -2,8 +2,9 @@
   "name": "Oracle Group",
   "short_name": "Oracle",
   "description": "Plastic food packaging products manufactured by Oracle Group.",
-  "start_url": "/",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
-  "background_color": "#f6f5ef",
-  "theme_color": "#3f993c"
+  "background_color": "#ffffff",
+  "theme_color": "#228b22"
 }
